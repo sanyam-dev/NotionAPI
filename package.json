@@ -1,0 +1,17 @@
+{
+  "name": "notionapi",
+  "version": "1.0.0",
+  "description": "Using notion api",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "author": "Sanyam Jha",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
